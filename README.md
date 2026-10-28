@@ -201,7 +201,7 @@ bash-scripting/
 ## 🚀 Uso
 
 ```bash
-git clone https://github.com/<tu-usuario>/bash-scripting.git
+git clone https://github.com/jolucoga/bash-scripting.git
 cd bash-scripting
 chmod u+x */*.sh
 
